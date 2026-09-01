@@ -1,0 +1,9 @@
+.venv/
+data/
+.env
+scratch/
+spark-warehouse/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
