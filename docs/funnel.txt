@@ -1,0 +1,7 @@
+bronze rows           : 123,849
+blank description     : -7
+duplicate job_id      : -0
+language filter       : -1,979
+shorter than 200 chars: -21
+silver rows           : 121,842
+total loss            : 2,007 (1.62%)
