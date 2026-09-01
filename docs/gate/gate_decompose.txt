@@ -1,0 +1,33 @@
+corpus: 123,842
+
+  a plus            12,732   10.3%
+  nice to have       1,396    1.1%
+  bonus             17,463   14.1%
+  desirable          2,540    2.1%
+  preferred         50,131   40.5%
+  would be great       112    0.1%
+  ideally            1,997    1.6%
+
+excluding 'bonus' and 'preferred':
+  17,802 / 123,842 = 14.4%
+
+matched ONLY by 'bonus' (likely compensation): 9,063
+
+--- 5 contexts around 'bonus' ---
+ ...t - commission basedBuilding to full time workJump of 5% in commission as well as monthly bonus/stipend once full timeWeekly supervision providedPaid ...
+ ... highly competitive wages, healthcare, paid time off, complimentary dining privileges and bonus opportunities.  We are a serious, professional, long-s...
+ ...tude, adaptability, and a commitment to excellence.Compensation:Competitive salary plus a bonus structure, along with benefits. If you are a dedicated...
+ ...proficiency), Mandarin is a plusWage: $ 100 USD /one day(Good performance will have extra bonus)Working Hours: 08:30 a.m.- 17:00 p.m.Interview:Online ...
+ ...ty and willingness to travel a must. 1-2 years experience required. Work from home. Great bonus structure and abiltybto make $100k plus immediately...
+
+--- description length ---
+count    123842.000000
+mean       3766.464204
+std        2146.492565
+min           2.000000
+50%        3435.000000
+90%        6584.000000
+95%        7688.900000
+99%        9959.000000
+max       23201.000000
+over 20k chars: 9

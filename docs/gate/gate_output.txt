@@ -1,0 +1,66 @@
+======================================================================
+COLUMN INVENTORY (first 5,000 rows)
+======================================================================
+31 columns
+
+  application_type                 blank=  0.0%  eg='ComplexOnsiteApply'
+  application_url                  blank= 41.9%  eg='www.childrensnebraska.org'
+  applies                          blank= 70.3%  eg='2.0'
+  closed_time                      blank= 99.3%  eg='1713207715000.0'
+  company_id                       blank=  3.0%  eg='2774458.0'
+  company_name                     blank=  3.0%  eg='Corcoran Sawyer Smith'
+  compensation_type                blank= 68.6%  eg='BASE_SALARY'
+  currency                         blank= 68.6%  eg='USD'
+  description                      blank=  0.0%  eg='Job descriptionA leading real estate firm in New Jersey is seekin'
+  expiry                           blank=  0.0%  eg='1715989508000.0'
+  fips                             blank= 22.8%  eg='34021'
+  formatted_experience_level       blank= 35.5%  eg='Entry level'
+  formatted_work_type              blank=  0.0%  eg='Full-time'
+  job_id                           blank=  0.0%  eg='921716'
+  job_posting_url                  blank=  0.0%  eg='https://www.linkedin.com/jobs/view/921716/?trk=jobs_biz_prem_srch'
+  listed_time                      blank=  0.0%  eg='1713397508000.0'
+  location                         blank=  0.0%  eg='Princeton, NJ'
+  max_salary                       blank= 74.3%  eg='20.0'
+  med_salary                       blank= 94.2%  eg='350.0'
+  min_salary                       blank= 74.3%  eg='17.0'
+  normalized_salary                blank= 68.6%  eg='38480.0'
+  original_listed_time             blank=  0.0%  eg='1713397508000.0'
+  pay_period                       blank= 68.6%  eg='HOURLY'
+  posting_domain                   blank= 45.1%  eg='arrowstaffingservices.thejobnetwork.com'
+  remote_allowed                   blank= 86.0%  eg='1.0'
+  skills_desc                      blank= 99.3%  eg='Requirements: \n\nWe are seeking a College or Graduate Student (can'
+  sponsored                        blank=  0.0%  eg='0'
+  title                            blank=  0.0%  eg='Marketing Coordinator'
+  views                            blank=  0.3%  eg='20.0'
+  work_type                        blank=  0.0%  eg='FULL_TIME'
+  zip_code                         blank= 17.7%  eg='08540'
+
+======================================================================
+KEY FIELDS (full corpus)
+======================================================================
+rows parsed         : 123,849
+blank descriptions  : 7
+duplicate job_ids   : 0
+
+formatted_experience_level:
+formatted_experience_level
+Mid-Senior level    41489
+Entry level         36708
+                    29409
+Associate            9826
+Director             3746
+Internship           1449
+Executive            1222
+
+  blank rate: 23.7%
+
+======================================================================
+DESCRIPTION LENGTH
+======================================================================
+median chars: 3,435
+median words: 477
+
+======================================================================
+GATE CHECK 2 - preferred-signal phrases
+======================================================================
+69,644 / 123,842 = 56.2%
