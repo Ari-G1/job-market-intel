@@ -1,16 +1,0 @@
-26/09/01 19:38:25 WARN Utils: Your hostname, DESKTOP-OFU3CNN resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
-26/09/01 19:38:25 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
-Setting default log level to "WARN".
-To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
-26/09/01 19:38:25 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-[Stage 1:>                                                          (0 + 6) / 7][Stage 1:================>                                          (2 + 5) / 7][Stage 1:=========================>                                 (3 + 4) / 7][Stage 1:==========================================>                (5 + 2) / 7][Stage 1:==================================================>        (6 + 1) / 7]                                                                                
-====================================================
-FUNNEL
-====================================================
-bronze rows           : 123,849
-blank description     : -7
-duplicate job_id      : -0
-language filter       : -1,979
-shorter than 200 chars: -21
-----------------------------------------------------
-silver rows           : 121,842
