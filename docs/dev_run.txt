@@ -1,0 +1,255 @@
+=== 3899541482 | Senior Dotnet Developer
+
+usage: {'input_tokens': 1417, 'output_tokens': 1118} 
+
+seniority=senior  years_min=3
+25 skills
+
+   .NET                   required      'Required: 7+ years of .NET application development'
+   C#                     required      '7+ years of .NET application development using C#, Angu'
+   Angular                required      '7+ years of .NET application development using C#, Angu'
+   Entity Framework Core  required      '7+ years of .NET application development using C#, Angu'
+   ADO.Net                required      '7+ years of .NET application development using C#, Angu'
+   jQuery                 required      '7+ years of .NET application development using C#, Angu'
+   Web/Rest API           required      '7+ years of .NET application development using C#, Angu'
+   Azure web jobs         required      '7+ years of .NET application development using C#, Angu'
+   Azure DevOps           required      '7+ years of .NET application development using C#, Angu'
+   Azure CI/CD            required      'Azure DevOps for code repository, Azure CI/CD for conti'
+   Oracle                 required      'Required: 5+ years of Oracle development experience, in'
+   PL/SQL                 required      '5+ years of Oracle development experience, including wr'
+   Azure SQL              required      'Required 5+ years of Azure SQL development experience, '
+   Azure PostgreSQL       required      'Required 3+ years of Azure Postgres development experie'
+   HTML5                  required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   CSS3                   required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   Bootstrap              required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   AngularMaterial        required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   TypeScript             required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   JSON                   required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   XML                    required      'Required: 5 + years of experience with HTML5, CSS3, Ang'
+   Python                 preferred     'Desired 2+years of experience with Python, Powershell s'
+   Powershell             preferred     'Desired 2+years of experience with Python, Powershell s'
+   SAP BusinessObjects    preferred     'Desired 2 +years of experience with SAP Business Intell'
+   Telerik UI             preferred     'Desired 2 +years of experience with SAP Business Intell'
+
+grounded: 25/25
+
+=== 3901938974 | Software Developer
+
+usage: {'input_tokens': 873, 'output_tokens': 356} 
+
+seniority=unspecified  years_min=None
+6 skills
+
+   Python                 required      'Proficient in at least one programming language (Python'
+   JavaScript             required      'Proficient in at least one programming language (Python'
+   HTML                   required      'Proficient in at least one programming language (Python'
+   C++                    required      'Proficient in at least one programming language (Python'
+   C#                     required      'Proficient in at least one programming language (Python'
+   SQL                    required      'Proficient in at least one programming language (Python'
+
+grounded: 6/6
+
+=== 3902846506 | Product Manager - Data Products
+
+usage: {'input_tokens': 1773, 'output_tokens': 626} 
+
+seniority=mid  years_min=2
+14 skills
+
+   Data platforms         required      '4+ years experience with data/reporting, business intel'
+   Business intelligence  required      '4+ years experience with data/reporting, business intel'
+   APIs                   required      '2+ years experience with API and/or API-first products'
+   Product management     required      '2+ years of product management or business analyst expe'
+   Excel                  required      'Strong Excel & SQL skills'
+   SQL                    required      'Strong Excel & SQL skills'
+   Agile                  required      'Experience with Agile/Scrum methodologies'
+   Scrum                  required      'Experience with Agile/Scrum methodologies'
+!! Python                 preferred     'Knowledge of Python, Flink, Kafka, MySQL, PostgreSQL'
+!! Flink                  preferred     'Knowledge of Python, Flink, Kafka, MySQL, PostgreSQL'
+!! Kafka                  preferred     'Knowledge of Python, Flink, Kafka, MySQL, PostgreSQL'
+!! MySQL                  preferred     'Knowledge of Python, Flink, Kafka, MySQL, PostgreSQL'
+!! PostgreSQL             preferred     'Knowledge of Python, Flink, Kafka, MySQL, PostgreSQL'
+   AWS                    preferred     'High level understanding of AWS services'
+
+grounded: 9/14
+
+=== 3903448775 | Lead .Net/Azure Developer with Azure Purview
+
+usage: {'input_tokens': 982, 'output_tokens': 800} 
+
+seniority=senior  years_min=None
+16 skills
+
+   Azure                  required      'Strong technical knowledge of Microsoft Azure cloud ser'
+   Azure Purview          required      'Need good experience with Azure Purview and Azure Servi'
+   .NET                   required      'Proficiency in programming languages such as Python, Po'
+   C#                     boilerplate   'Mastery of programming languages such as C#, Python, an'
+   Python                 required      'Proficiency in programming languages such as Python, Po'
+   PowerShell             required      'Proficiency in programming languages such as Python, Po'
+   Azure SQL Database     required      'Strong knowledge of Azure cloud services, including Azu'
+   Azure Active Directory required      'Strong knowledge of Azure cloud services, including Azu'
+   Azure App Services     required      'Strong knowledge of Azure cloud services, including Azu'
+   Azure Virtual Machines required      'Strong knowledge of Azure cloud services, including Azu'
+   Azure DevOps           boilerplate   'Azure-specific services like Azure SQL Database, Azure '
+   Git                    required      'Familiarity with Git, Docker, Kubernetes, and Argo CD'
+   Docker                 required      'Familiarity with Git, Docker, Kubernetes, and Argo CD'
+   Kubernetes             required      'Familiarity with Git, Docker, Kubernetes, and Argo CD'
+   Argo CD                required      'Familiarity with Git, Docker, Kubernetes, and Argo CD'
+   JavaScript             boilerplate   'Mastery of programming languages such as C#, Python, an'
+
+grounded: 16/16
+
+=== 3904575802 | Senior Software Engineer, Full Stack (Spring Boot, JavaScript, AWS)
+
+usage: {'input_tokens': 1469, 'output_tokens': 686} 
+
+seniority=senior  years_min=1
+18 skills
+
+   Spring Boot            required      '5+ years of experience with Java SpringBoot'
+   JavaScript             required      '4+ years of experience with Angular, React, or JavaScri'
+   AWS                    preferred     '1+ years of experience with AWS, GCP, Microsoft Azure, '
+   Java                   required      'Utilize programming languages like JavaScript, Java, HT'
+   TypeScript             required      'Utilize programming languages like JavaScript, Java, HT'
+   Python                 required      'Utilize programming languages like JavaScript, Java, HT'
+   Go                     required      'Utilize programming languages like JavaScript, Java, HT'
+   SQL                    required      'Utilize programming languages like JavaScript, Java, HT'
+   HTML                   required      'Utilize programming languages like JavaScript, Java, HT'
+   CSS                    required      'Utilize programming languages like JavaScript, Java, HT'
+   Docker                 required      'Container Orchestration services including Docker and K'
+   Kubernetes             required      'Container Orchestration services including Docker and K'
+   Angular                preferred     '4+ years of experience with Angular, React, or JavaScri'
+   React                  preferred     '4+ years of experience with Angular, React, or JavaScri'
+   GCP                    preferred     '1+ years of experience with AWS, GCP, Microsoft Azure, '
+   Microsoft Azure        preferred     '1+ years of experience with AWS, GCP, Microsoft Azure, '
+   NoSQL                  required      'Open Source RDBMS and NoSQL databases'
+   RDBMS                  required      'Open Source RDBMS and NoSQL databases'
+
+grounded: 18/18
+
+=== 3904578549 | Senior Lead Engineer - Generative AI Product Engineering
+
+usage: {'input_tokens': 1968, 'output_tokens': 1165} 
+
+seniority=senior  years_min=1
+22 skills
+
+   Machine Learning       boilerplate   'For years, Capital One has been leading the industry in'
+   Python                 required      'At least 8 years of experience programming with Python,'
+   Go                     required      'At least 8 years of experience programming with Python,'
+   Scala                  required      'At least 8 years of experience programming with Python,'
+   Java                   required      'At least 8 years of experience programming with Python,'
+   Distributed Computing  required      'At least 8 years of experience designing and building d'
+   Large Language Models (LLMs) required      'build systems that will enable our users to work with L'
+   APIs                   required      'help build and maintain APIs and SDKs to train, fine-tu'
+   SDKs                   required      'help build and maintain APIs and SDKs to train, fine-tu'
+   Deep Neural Networks   required      'At least 1 year of experience building, scaling, and op'
+   NLP                    preferred     'Familiarity with building large-scale AI products or pl'
+   Computer Vision        preferred     'Familiarity with building large-scale AI products or pl'
+   Recommendation Systems preferred     'building large-scale AI products or platforms for NLP, '
+   Cloud Infrastructure   required      'using our public cloud infrastructure. You will work wi'
+   Model Training         required      'Architect, build and deploy well-managed core APIs and '
+   Model Fine-tuning      required      'Architect, build and deploy well-managed core APIs and '
+   API Security           preferred     'Have experience with API security, observability, cloud'
+   Observability          preferred     'Have experience with API security, observability, cloud'
+   Cloud Access Control   preferred     'Have experience with API security, observability, cloud'
+   Cache Optimization     required      'At least 8 years of experience designing and building d'
+   AI Safety              required      'Design and implement AI safety and guardrails in the AP'
+   Inferencing Systems    required      'At least 1 year of experience building, scaling, and op'
+
+grounded: 22/22
+
+=== 3904965672 | Oracle EBS Functional
+
+usage: {'input_tokens': 859, 'output_tokens': 850} 
+
+seniority=unspecified  years_min=None
+20 skills
+
+   Oracle EBS             required      'Application: Oracle EBS R12.2'
+   Oracle Applications AR required      'Mandatory SkillsOracle Applications AR, GL, AP, Collect'
+   Oracle Applications GL required      'Mandatory SkillsOracle Applications AR, GL, AP, Collect'
+   Oracle Applications AP required      'Mandatory SkillsOracle Applications AR, GL, AP, Collect'
+   Oracle Collections     required      'Mandatory SkillsOracle Applications AR, GL, AP, Collect'
+   Oracle Sysadmin        required      'Mandatory SkillsOracle Applications AR, GL, AP, Collect'
+   PL/SQL                 required      'Languages: PL/SQL, SQL, Java/J2EE, XML'
+   SQL                    required      'Languages: PL/SQL, SQL, Java/J2EE, XML'
+   Java                   required      'Languages: PL/SQL, SQL, Java/J2EE, XML'
+   XML                    required      'Languages: PL/SQL, SQL, Java/J2EE, XML'
+   Oracle Database        required      'Database: Oracle 19c'
+   TOAD                   required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   SQL Developer          required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   PuTTY                  required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   WinSCP                 required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   HP Quality Center      required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   ServiceNow             required      'Tools: TOAD, SQL Developer, Putty, WinScp, HPQC, Servic'
+   Windows                required      'O/s: Windows 11, Linux, ExaCloud'
+   Linux                  required      'O/s: Windows 11, Linux, ExaCloud'
+   ExaCloud               required      'O/s: Windows 11, Linux, ExaCloud'
+
+grounded: 20/20
+
+=== 3905289130 | Enterprise Account Engineer
+
+usage: {'input_tokens': 2011, 'output_tokens': 971} 
+
+seniority=mid  years_min=8
+23 skills
+
+   TCP                    boilerplate   "You'll find your time investigating issues and developi"
+   HTTP                   boilerplate   "You'll find your time investigating issues and developi"
+   SSL                    boilerplate   "You'll find your time investigating issues and developi"
+   Linux                  required      'Strong working experience with the following: Experienc'
+   Docker                 required      'Container platforms (eg. Docker, Kubernetes)'
+   Kubernetes             required      'Container platforms (eg. Docker, Kubernetes)'
+   REST APIs              required      'Troubleshooting APIs (familiar with JSON and YAML)'
+   Python                 required      'Scripting and/or Automation (eg. Python, Shell scripts,'
+   Shell                  required      'Scripting and/or Automation (eg. Python, Shell scripts,'
+   Ansible                required      'Scripting and/or Automation (eg. Python, Shell scripts,'
+   AWS                    required      'Cloud platforms and infrastructure (eg. AWS/Azure/GCE, '
+   Azure                  required      'Cloud platforms and infrastructure (eg. AWS/Azure/GCE, '
+   GCE                    required      'Cloud platforms and infrastructure (eg. AWS/Azure/GCE, '
+   Terraform              required      'Cloud platforms and infrastructure (eg. AWS/Azure/GCE, '
+   JSON                   required      'Troubleshooting APIs (familiar with JSON and YAML)'
+   YAML                   required      'Troubleshooting APIs (familiar with JSON and YAML)'
+   Bash                   required      'Shell environments (eg. Bash)'
+   NGINX                  preferred     'Familiarity with proxy servers (eg, NGINX)'
+   PostgreSQL             preferred     'Database skills (e.g. PostgreSQL, MongoDB, etc)'
+   MongoDB                preferred     'Database skills (e.g. PostgreSQL, MongoDB, etc)'
+   strace                 required      'Experienced technical knowledge of and experience fixin'
+   SSL/TLS                required      'HTTP + SSL/TLSREST APIsComfortable with the layers of a'
+   UNIX                   required      'Experienced technical knowledge of and experience fixin'
+
+grounded: 23/23
+
+=== 3905343965 | Director Information Technology Services
+
+usage: {'input_tokens': 772, 'output_tokens': 227} 
+
+seniority=senior  years_min=10
+4 skills
+
+   Azure                  required      'Proficiency in cloud technologies (Azure, AWS, and/or G'
+   AWS                    required      'Proficiency in cloud technologies (Azure, AWS, and/or G'
+   GCP                    required      'Proficiency in cloud technologies (Azure, AWS, and/or G'
+   network infrastructure required      'Proficiency in cloud technologies (Azure, AWS, and/or G'
+
+grounded: 4/4
+
+=== 3905871459 | IAM System Analyst-Onsite
+
+usage: {'input_tokens': 683, 'output_tokens': 327} 
+
+seniority=unspecified  years_min=8
+7 skills
+
+   IAM                    required      'Strong understanding of IAM concepts, regulations, and '
+   Cloud Solutions        required      'Knowledge and experience working in cloud solutions'
+   Microsoft Azure        preferred     'Knowledge and experience working in cloud solutions (pr'
+   SQL                    required      'Ability to pull SQL and PowerShell scripts'
+   PowerShell             required      'Ability to pull SQL and PowerShell scripts'
+   Splunk                 required      'Experience in Splunk and ability to read logs'
+   SailPoint IIQ          required      'SailPoint IIQ knowledge and experience'
+
+grounded: 7/7
+

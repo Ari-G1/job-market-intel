@@ -1,0 +1,468 @@
+==========================================================================================
+[1/10] 3899541482 | Senior Dotnet Developer
+gazetteer (15): ['.NET', 'Angular', 'Azure', 'C#', 'CI/CD', 'CSS', 'HTML', 'Oracle', 'PostgreSQL', 'PowerShell', 'Python', 'REST API', 'SQL', 'Spark', 'TypeScript']
+==========================================================================================
+The role involves developing datawarehousing and business intelligence (DW/BI) solutions,
+including acustom-built enterprise business intelligence web portal, and supporting
+thedevelopment of medium to large .NET applications.As a member of a dynamic team, youwill
+be responsible for .NET development for multiple concurrent projects andwill work on all
+the stages of the SDLC. You will have the opportunity to workwith cutting-edge
+technologies such as .NET in Azure, C#, Angular, EntityFramework Core, ADO.Net, jQuery,
+Web /Rest API, Python, Spark, Azure web jobs, Azure DevOps for coderepository, and Azure
+CI/CD for continuous integration and continuousdeployment of the code, SAP BusinessObjects
+Business Intelligence SDK integration,Telerik UI controls integration, and databases such
+as Azure PostgreSQL, Azure SQL,Oracle. Your contributions will be criticalto the success
+of the team and the organization. Responsibilities:- Involvement inall phases of
+Application development, including requirements gathering,design, and testing.- Will
+performsenior-level software programming and analysis work to include functional andnon-
+functional requirements and validation.- Design and develophighly complex integrated
+system modules and business logic, code reviews,interfaces, database schemas, stored
+procedures, views, software testing, anddebugging of programs and affiliated interfaces.-
+Creation andevaluations of documents and presentations, software quality
+assurance,coordinating with other cross-functional technical team leads, assessing
+andreporting project status, developing an implementation plan with integrated Goor No-Go
+decision points and roll-back strategies, and documenting computerapplications and team
+oversight for Software Life Cycle Management compliance.- Provideexpertise in one or more
+database environments.- Hands-ondevelopment (estimated 75%) and other-related work
+(estimated 25%) Skills andExperience:1. Required: 10+ years of IT experience.2. Required:
+7+ years of .NET application developmentusing C#, Angular, Entity Framework Core, ADO.Net,
+jQuery, Web/Rest API, Azureweb jobs, Azure DevOps for code repository, Azure CI/CD for
+continuousintegration and deployment & teamlead experience.3. Required: 5+ years of Oracle
+developmentexperience, including writing complex PL/SQL and performing performance
+tuning.4. Required 5+ years of Azure SQL development experience, including writing
+complexSQL and performing performance tuning.5. Required 3+ years of Azure Postgres
+development experience, including writingcomplex queries and performing performance
+tuning.6. Required: 5+ years: Data analysis andrequirements gathering and testing.7.
+Required: 5 + years of experience with HTML5, CSS3, Angular, Bootstrap, AngularMaterial,
+TypeScript, jQuery Mobile, JSON, XML.8. Desired 2+years of experience with
+Python,Powershell scripting,9. Desired 2 +years of experience with SAP Business
+IntelligenceSDK integration and Telerik UI controls integration.10. Required: Strong oral
+and writtencommunication skills.11. Must know Angular application development
+andaccessible web applications and website content following the W3C Web
+ContentAccessibility Guidelines (WCAG)12. Proven experience in analyzing and
+designingapplications to functional and technical programming standards, developing
+theapplications / new business processes and programming solutions as directed bybusiness
+and technical stakeholders. 13. Solid understanding of user-centered designprinciples,
+excellent visual design skills, great technical know-how, andproven expertise in
+interaction design.14. Proven experience working in a teamenvironment, completing assigned
+tasks, determining time estimates andschedules for work, and excellent written and verbal
+communication skills.15. Proven ability to present complex technicalconstructs to business
+and non-technical users and to make best practicerecommendations based on past work.16.
+Subject Matter Expertise (SME) developing andsupporting highly complex web applications.
+
+==========================================================================================
+[2/10] 3901938974 | Software Developer
+gazetteer (6): ['C#', 'C++', 'HTML', 'JavaScript', 'Python', 'SQL']
+==========================================================================================
+Software Developer (Contract) DataAnnotation is committed to creating quality AI. Join our
+team to help train AI chatbots while gaining the flexibility of remote work and choosing
+your own schedule. We are looking for a proficient Software Developer to join our team to
+train our AI chatbots to code. You will work with the chatbots that we are building in
+order to measure their progress, as well as write and evaluate code. In this role you will
+need to be proficient in at least one programming language (Python, JavaScript, HTML, C++,
+C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each
+coding problem, you must be able to explain how your solution solves the problem.
+Benefits: This is a full-time or part-time REMOTE positionYou’ll be able to choose which
+projects you want to work onYou can work on your own scheduleProjects are paid hourly,
+starting at $40+ USD per hour, with bonuses for high-quality and high-volume work
+Responsibilities: Come up with diverse problems and solutions for a coding chatbotWrite
+high-quality answers and code snippetsEvaluate code quality produced by AI models for
+correctness and performance Qualifications: Fluency in English (native or
+bilingual)Proficient in at least one programming language (Python, JavaScript, HTML, C++,
+C# and SQL)Excellent writing and grammar skillsA bachelor's degree (completed or in
+progress)Previous experience as a Software Developer, Coder, Software Engineer, or
+Programmer
+
+==========================================================================================
+[3/10] 3902846506 | Product Manager - Data Products
+gazetteer (7): ['AWS', 'Excel', 'Flink', 'Kafka', 'MySQL', 'Python', 'SQL']
+==========================================================================================
+Cloudbeds provides the platform that powers hospitality, driving streamlined operations,
+increasing reservations and revenue, and enabling memorable guest experiences for lodging
+businesses of all sizes and types. Named the No. 1 PMS and No. 1 Hotel Management System
+by Hotel Tech Report in 2022, Cloudbeds is trusted by properties across the globe for its
+award-winning front desk, revenue, distribution, guest acquisition and guest engagement
+solutions seamlessly combined in a single unified system. Behind the Cloudbeds platform is
+a growing team of 700+ employees distributed across 40+ countries speaking 30+ languages.
+From data architects to UX designers, integrations managers to payments experts, former
+hotel managers to former OTA executives, our team comprises the brightest minds in
+technology and hospitality working to solve the industry’s biggest challenges. From The
+Beginning, We've Believed That Our People Are Our Greatest Asset, So We Founded The
+Company As #RemoteFirst, #RemoteAlways With Shared Core Values That Allow Our Team To
+Thrive. This Means We Hire the best people around the world;Emphasize the value of results
+over hours put in;Provide flexibility in working hours and locations;Foster an inclusive
+environment that celebrates bold thinking and diverse perspectives;Offer open vacation
+policies, free LinkedIn Learning, and other benefits that promote well-being and
+professional development. Cloudbeds is looking for a passionate Product Manager to join
+our Data Insights team. This team is dedicated to building out a world-class, customer-
+facing data platform and product unrivaled in the sector. Our vision uses data and
+insights to drive the business and our customers forward. The team is responsible for
+delivering products such as a data platform, standard reports, dashboards, data analytics
+tools, and API level data access for all of our customers worldwide. As a Product Manager
+- Data Products, you will work with a growing team of engineers, designers, and data
+scientists to build impactful products that empower lodging businesses everywhere and
+transform the world of travel technology. Location: US/Canada What You Will Do Translate
+business objectives into detailed product requirementsContribute to the vision, strategy,
+and execution of our data productsUse data and metrics to validate hypotheses and to
+justify product decisionsDefine success metrics and track progress throughout product life
+cycleCollaborate closely with engineering teams to deliver world-class products You’ll
+Succeed With 4+ years experience with data/reporting, business intelligence solutions, or
+data platforms2+ years experience with API and/or API-first products2+ years of product
+management or business analyst experience2+ years experience collaborating with remote,
+international multi-disciplinary teamsStrong Excel & SQL skillsExperience with Agile/Scrum
+methodologiesStrong critical and analytical skills to solve business problemsAbility to
+articulate complex concepts to cross functional audiencesExcellent interpersonal, verbal,
+and written communication skillsCuriosity to learn new things and ask why Nice To Haves
+Prior experience in the travel or hospitality industryKnowledge of Python, Flink, Kafka,
+MySQL, PostgresHigh level understanding of AWS servicesBS or MS in computer science, data
+science, or a related field Compensation: Depending on your skills and experience, you can
+expect your annual compensation to be between $120K-$160K. Our company culture supports
+flexible working schedules with an open Paid Time Away policy and gives all team members
+the opportunity to travel and work remotely with great people. If you think you have the
+skills and passion, we’ll give you the support and opportunity to thrive in your career.
+If you would like to be considered for the role, we would love to hear from you! Company
+Awards to Check Out! Best Places to Work | HotelTechReport (2018-2023)Best PMS |
+HotelTechReport (2021-2023)Technology Fast 500 | Deloitte (2023)Fastest Growing Companies
+| Inc. 5000 (2022)Best Startup Employers | Forbes (2022)Best Remote Companies to Work |
+BuiltIn (2022) Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the
+diversity in our global team! We do not discriminate based upon race, religion, color,
+national origin, gender (including pregnancy, childbirth, or related medical conditions),
+sexual orientation, gender identity, gender expression, age, status as a protected
+veteran, status as an individual with a disability, or other applicable legally protected
+characteristics. Cloudbeds is committed to the full inclusion of all qualified
+individuals. As part of this commitment, Cloudbeds will ensure that persons with
+disabilities are provided reasonable accommodations in the hiring process. We encourage
+deaf, hard of hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable
+accommodation is needed to participate in the job application or interview process or to
+perform essential job functions, please contact our HR team by phone at 858-201-7832 or
+via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign
+Language (ASL) interpreter where needed as a reasonable accommodation for the hiring
+processes. To all Staffing and Recruiting Agencies: Our Careers Site is only for
+individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals
+being represented by an agency are not authorized to use this site or to submit
+applications, and any such submissions will be considered unsolicited. Cloudbeds does not
+accept unsolicited resumes or applications from agencies. Please do not forward resumes to
+our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not
+responsible for any fees related to unsolicited resumes/applications.
+
+==========================================================================================
+[4/10] 3903448775 | Lead .Net/Azure Developer with Azure Purview
+gazetteer (9): ['Azure', 'C#', 'Docker', 'Git', 'JavaScript', 'Kubernetes', 'PowerShell', 'Python', 'SQL']
+==========================================================================================
+Title: Azure Developer/.Net Lead (Azure Purview)Location: Louisville, KY (REMOTE)Job type:
+Contract Note: Need good experience with Azure Purview and Azure Services Description:
+Description: An Azure Developer specializes in developing and managing applications within
+the Microsoft Azure cloud platform. One needs a strong foundation in cloud computing
+concepts and expertise in Azure services to become an Azure Developer. Mastery of
+programming languages such as C#, Python, and JavaScript is essential since these are
+commonly used in Azure application development. This role involves a deep understanding of
+Azure-specific services like Azure SQL Database, Azure DevOps, and Azure Active Directory,
+which are instrumental in designing, building, and managing scalable, efficient cloud
+applications. Responsibilities:Design and Implement Azure Solutions: Develop scalable,
+maintainable, and secure cloud solutions. Ensure these solutions integrate seamlessly with
+existing systems and meet business requirements.Analysis and Design – Converts high-level
+design to low-level design and implements it Run unit and integration tests on all created
+code – Create and run unit and integration tests throughout the development lifecycle
+Support and Troubleshooting – Assist the Operations Team with any environmental issues
+that arise during application deployment in the Development, QA, Staging, and Production
+environments Cloud Infrastructure Management: Oversee the deployment, management, and
+operation of applications on Azure. This includes configuring cloud environments and
+ensuring optimal performance.Documentation: Create and maintain comprehensive
+documentation for cloud architectures, processes, and best practices.Collaborate with Team
+Leads to define/clarify business requirements, estimate development costs, and finalize
+work plans Required Qualifications:BS in Computer Science or related field or equivalent
+years of experience.Strong technical knowledge of Microsoft Azure cloud services.Strong
+knowledge of Azure cloud services, including Azure Active Directory, App Services, Azure
+SQL Database, and Azure Virtual Machines.Proficiency in programming languages such as
+Python, PowerShell, and .NET.Familiarity with Git, Docker, Kubernetes, and Argo CD Logical
+thinking and problem-solving abilities, as well as the capacity to collaborate
+
+==========================================================================================
+[5/10] 3904575802 | Senior Software Engineer, Full Stack (Spring Boot, JavaScript, AWS)
+gazetteer (17): ['AWS', 'Angular', 'Azure', 'CSS', 'Docker', 'GCP', 'HTML', 'Java', 'JavaScript', 'Kubernetes', 'NoSQL', 'Python', 'React', 'SQL', 'Spring', 'Spring Boot', 'TypeScript']
+==========================================================================================
+Center 3 (19075), United States of America, McLean, VirginiaSenior Software Engineer, Full
+Stack (Spring Boot, JavaScript, AWS) Do you love building and pioneering in the technology
+space? Do you enjoy solving complex business problems in a fast-paced, collaborative,
+inclusive, and iterative delivery environment? At Capital One, you'll be part of a big
+group of makers, breakers, doers and disruptors, who solve real problems and meet real
+customer needs. We are seeking Full Stack Software Engineers who are passionate about
+marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have
+the opportunity to be on the forefront of driving a major transformation within Capital
+One. What You’ll Do: Collaborate with and across Agile teams to design, develop, test,
+implement, and support technical solutions in full-stack development tools and
+technologies Modernize Capital One’s money movement for our small business customers Share
+your passion for staying on top of tech trends, experimenting with and learning new
+technologies, participating in internal & external technology communities, mentoring other
+members of the engineering community Collaborate with digital product managers, and
+deliver robust cloud-based solutions that drive powerful experiences to help millions of
+Americans achieve financial empowerment Utilize programming languages like JavaScript,
+Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases,
+Container Orchestration services including Docker and Kubernetes, and a variety of AWS
+tools and services Basic Qualifications: Bachelor’s Degree At least 4 years of experience
+in software engineering (Internship experience does not apply) Preferred Qualifications:
+5+ years of experience with Java SpringBoot 4+ years of experience with Angular, React, or
+JavaScript 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service
+3+ years of experience in open source frameworks 2+ years of experience in Agile practices
+At this time, Capital One will not sponsor a new applicant for employment authorization
+for this position. Capital One offers a comprehensive, competitive, and inclusive set of
+health, financial and other benefits that support your total well-being. Learn more at the
+Capital One Careers website . Eligibility varies based on full or part-time status, exempt
+or non-exempt status, and management level. This role is expected to accept applications
+for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity
+employer committed to diversity and inclusion in the workplace. All qualified applicants
+will receive consideration for employment without regard to sex (including pregnancy,
+childbirth or related medical conditions), race, color, age, national origin, religion,
+disability, genetic information, marital status, sexual orientation, gender identity,
+gender reassignment, citizenship, immigration status, protected veteran status, or any
+other basis prohibited under applicable federal, state or local law. Capital One promotes
+a drug-free workplace. Capital One will consider for employment qualified applicants with
+a criminal history in a manner consistent with the requirements of applicable laws
+regarding criminal background inquiries, including, to the extent applicable, Article 23-A
+of the New York Correction Law; San Francisco, California Police Code Article 49, Sections
+4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening
+Act; and other applicable federal, state, and local laws and regulations regarding
+criminal background inquiries. If you have visited our website in search of information on
+employment opportunities or to apply for a position, and you require an accommodation,
+please contact Capital One Recruiting at 1-800-304-9102 or via email at
+RecruitingAccommodation@capitalone.com . All information you provide will be kept
+confidential and will be used only to the extent required to provide needed reasonable
+accommodations. For technical support or questions about Capital One's recruiting process,
+please send an email to Careers@capitalone.com Capital One does not provide, endorse nor
+guarantee and is not liable for third-party products, services, educational tools or other
+information available through this site. Capital One Financial is made up of several
+different entities. Please note that any position posted in Canada is for Capital One
+Canada, any position posted in the United Kingdom is for Capital One Europe and any
+position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+==========================================================================================
+[6/10] 3904578549 | Senior Lead Engineer - Generative AI Product Engineering
+gazetteer (6): ['Computer vision', 'Java', 'Machine learning', 'NLP', 'Python', 'Scala']
+==========================================================================================
+314 Main Street (21020), United States of America, Cambridge, MassachusettsSenior Lead
+Engineer - Generative AI Product Engineering Our mission at Capital One is to create
+trustworthy, reliable and human-in-the-loop AI systems, changing banking for good. For
+years, Capital One has been leading the industry in using machine learning to create real-
+time, intelligent, automated customer experiences. From informing customers about unusual
+charges to answering their questions in real time, our applications of AI & ML are
+bringing humanity and simplicity to banking. Because of our investments in public cloud
+infrastructure and machine learning platforms, we are now uniquely positioned to harness
+the power of AI. We are committed to building world-class applied science and engineering
+teams and continue our industry leading capabilities with breakthrough product experiences
+and scalable, high-performance AI infrastructure. At Capital One, you will help bring the
+transformative power of emerging AI capabilities, to reimagine how we serve our customers
+and businesses who have come to love the products and services we build. We are looking
+for an experienced Sr. Lead Engineer to help build and maintain APIs and SDKs to train,
+fine-tune and access AI models at scale. You will work as part of our Enterprise AI team
+and build systems that will enable our users to work with Large-Language Models (LLMs) and
+Foundation Models (FMs), using our public cloud infrastructure. You will work with a team
+of world-class AI engineers and researchers to design and implement key API products and
+services of our capabilities and enable real-time customer-facing applications powered by
+these capabilities. Examples of projects you will work on include: Architect, build and
+deploy well-managed core APIs and SDKs to access LLMs and our proprietary FMs including
+training, fine-tuning and prompting tasks, including orchestration SDKs. Design APIs for
+performance, real-time applications, scale, ease of use and governance automation. Develop
+application-specific interfaces that leverage LLMs and FMs to continue to enhance the
+associate and customer experience.. Enable our users to build new AI capabilities Develop
+tools and processes to monitor API access patterns and operational health. Design and
+implement AI safety and guardrails in the API layer working closely with researchers.
+Basic Qualifications: Bachelor’s degree in Computer Science, Computer Engineering or a
+technical field. At least 8 years of experience designing and building data-intensive
+solutions using distributed computing and cache optimization techniques. At least 8 years
+of experience programming with Python, Go, Scala, or Java At least 1 year of experience
+building, scaling, and optimizing training or inferencing systems for deep neural networks
+Preferred Qualifications: Familiarity with building large-scale AI products or platforms
+for NLP, speech, computer vision, or recommendation systems serving millions of users.
+Ability to move fast in an environment with ambiguity at times, and with competing
+priorities and deadlines. Experience at tech and product-driven companies/startups
+preferred. Ability to iterate rapidly with researchers and engineers to improve a product
+experience while building the foundational capabilities Familiarity with deploying large
+neural network models in demanding production environments. Have experience with API
+security, observability, cloud access control and privacy best practices. Capital One will
+consider sponsoring a new qualified applicant for employment authorization for this
+position. The minimum and maximum full-time annual salaries for this role are listed
+below, by location. Please note that this salary information is solely for candidates
+hired to perform work within one of these locations, and refers to the amount Capital One
+is willing to pay at the time of this posting. Salaries for part-time roles will be
+prorated based upon the agreed upon number of hours to be regularly worked. New York City
+(Hybrid On-Site): $234,700 - $267,900 for Sr. Lead Machine Learning EngineerSan Francisco,
+California (Hybrid On-Site): $248,700 - $283,800 for Sr. Lead Machine Learning Engineer
+Candidates hired to work in other locations will be subject to the pay range associated
+with that location, and the actual annualized salary amount offered to any candidate at
+the time of hire will be reflected solely in the candidate’s offer letter. This role is
+also eligible to earn performance based incentive compensation, which may include cash
+bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non
+discretionary depending on the plan. Capital One offers a comprehensive, competitive, and
+inclusive set of health, financial and other benefits that support your total well-being.
+Learn more at the Capital One Careers website . Eligibility varies based on full or part-
+time status, exempt or non-exempt status, and management level. This role is expected to
+accept applications for a minimum of 5 business days.No agencies please. Capital One is an
+equal opportunity employer committed to diversity and inclusion in the workplace. All
+qualified applicants will receive consideration for employment without regard to sex
+(including pregnancy, childbirth or related medical conditions), race, color, age,
+national origin, religion, disability, genetic information, marital status, sexual
+orientation, gender identity, gender reassignment, citizenship, immigration status,
+protected veteran status, or any other basis prohibited under applicable federal, state or
+local law. Capital One promotes a drug-free workplace. Capital One will consider for
+employment qualified applicants with a criminal history in a manner consistent with the
+requirements of applicable laws regarding criminal background inquiries, including, to the
+extent applicable, Article 23-A of the New York Correction Law; San Francisco, California
+Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act;
+Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state,
+and local laws and regulations regarding criminal background inquiries. If you have
+visited our website in search of information on employment opportunities or to apply for a
+position, and you require an accommodation, please contact Capital One Recruiting at
+1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information
+you provide will be kept confidential and will be used only to the extent required to
+provide needed reasonable accommodations. For technical support or questions about Capital
+One's recruiting process, please send an email to Careers@capitalone.com Capital One does
+not provide, endorse nor guarantee and is not liable for third-party products, services,
+educational tools or other information available through this site. Capital One Financial
+is made up of several different entities. Please note that any position posted in Canada
+is for Capital One Canada, any position posted in the United Kingdom is for Capital One
+Europe and any position posted in the Philippines is for Capital One Philippines Service
+Corp. (COPSSC).
+
+==========================================================================================
+[7/10] 3904965672 | Oracle EBS Functional
+gazetteer (4): ['Java', 'Linux', 'Oracle', 'SQL']
+==========================================================================================
+Oracle EBS Functional Memphis TN (need day1 onsite)Who can apply : Individuals who are
+legally authorized to work in a USA with out sponsorship and who can work with any
+employer Job Location/Client Location (with City & State)Memphis TNRemote ok(Y/N)NNo of
+openings/positions1Mandatory SkillsOracle Applications AR, GL, AP, Collections,
+SysadminClient Interview Needed for Selection (yes / No)NoDetailed JDRequirement gathering
+of new enhancement and development.Prepare and review technical design documents for
+custom components.Development plan for enhancement requirements.Providing assistance to
+support to new instances and assisting client in month-end closing activities.Testing
+guidance and Training for new development.Preparing deployment plan for new
+components.Coordinate development activities, evaluate and report performance of project
+by generating business user reports to identify the overall success rate.Generating unit
+test cases and generating code coverage analysis, code review for the code
+developed.Review of Low Level Design documents.Coordinate with business users.Preparation
+of Weekly/Monthly status reports.Provide support to Production Support team for the post
+go-live. Required Technologies:Application: Oracle EBS R12.2Languages: PL/SQL, SQL,
+Java/J2EE, XMLDatabase: Oracle 19cTools: TOAD, SQL Developer, Putty, WinScp, HPQC,
+ServiceNowO/s: Windows 11, Linux, ExaCloud
+
+==========================================================================================
+[8/10] 3905289130 | Enterprise Account Engineer
+gazetteer (12): ['AWS', 'Ansible', 'Azure', 'Bash', 'Docker', 'Kubernetes', 'Linux', 'MongoDB', 'PostgreSQL', 'Python', 'REST API', 'Terraform']
+==========================================================================================
+At F5, we strive to bring a better digital world to life. Our teams empower organizations
+across the globe to create, secure, and run applications that enhance how we experience
+our evolving digital world. We are passionate about cybersecurity, from protecting
+consumers from fraud to enabling companies to focus on innovation. Everything we do
+centers around people. That means we obsess over how to make the lives of our customers,
+and their customers, better. And it means we prioritize a diverse F5 community where each
+individual can thrive. Come partner with our customers on their multi-cloud journey and
+support our most sophisticated technologies! You'll find your time investigating issues
+and developing deep skills across the entire technology stack: TCP, HTTP, SSL, Linux
+administration, Docker containers, Kubernetes, REST APIs, automation, application
+security, and a whole lot more. Show us your passion for solving problems, learning new
+technologies, and sharing knowledge with others! We want to see you perform under
+pressure, carefully disentangle and tackle the most complex of mysteries, and always
+looking for opportunities to improve the way things work. What will you do? Provide our
+customers crucial guidance through their multi-cloud transformation, resolving the most
+sophisticated technical problems and helping them realize all the benefits of F5
+Application Services across multiple cloud environments.As a trusted advisor you will
+provide both internally and externally sound analyses and solutions to challenges our
+customers are facing with our productsLead multiple technology challenges, prioritizing by
+customer and business needs.Resolve customer issues and build knowledge for use by
+customers, peers, and product development.Collaborate with others in resolving technical
+issues. Reproduce issues in a lab environment and solve the unsolvable!Optimally run case
+escalations to Tier 3 resources while maintaining customer communications. Knowledge,
+Skills And Abilities Ability to focus on overall customer satisfaction and a complete
+customer experience.Ability to lead the resolution outcomes of customer’s complex
+technical issues, with minimal direction.Working with our newest products and
+technologies, you are curious and have a growth mind set to continuously learn about our
+products, sub-systems and other technologies affecting customer interactions.Ability to
+work with a small experienced global team that is passionate about the customer’s
+outcomes, helping each other thrive through collaboration with multiple teams and being an
+owner of the resolution from discovery through documentation for others to utilize.Strong
+interpersonal and communication skills, both oral and written.Must be able to articulate
+deeply complex technical topics to customers, peers, and non-technical personnel in an
+influential and understandable manner.Ability to defuse complicated technical and
+political situations with enterprise customers.Be an analytical thinker with show
+attention to detail.Ability to optimally relay technical information to customers of
+varying skill levels, including senior technical customer levels.Ability to communicate
+effectively with management on special projects, including project updates, etc. How do
+you qualify? Hold a BS in Computer Sciences (or related degree) or showcase equivalent
+experienceProvide at least 8 years of relevant work experience Strong working experience
+with the following: Experienced technical knowledge of and experience fixing Linux / UNIX,
+including but not limited to tools like strace.Proficient in a *nix CLI
+environment.Scripting and/or Automation (eg. Python, Shell scripts, Ansible)Container
+platforms (eg. Docker, Kubernetes)Cloud platforms and infrastructure (eg. AWS/Azure/GCE,
+Terraform)Troubleshooting APIs (familiar with JSON and YAML)Shell environments (eg.
+Bash)TCP/IPHTTP + SSL/TLSREST APIsComfortable with the layers of abstraction present in
+virtualization, encapsulation, and clustered computing environments.Familiarity with a
+wide variety of networking topics.Must be able to read, write and speak English fluently,
+including technical concepts and terminology. Multiple language skills a plus. Other
+skills, talents and attributes that matter: Familiarity with proxy servers (eg,
+NGINX)Database skills (e.g. PostgreSQL, MongoDB, etc)KCS Practices certification a
+plusCertification on any of the following F5 products; LTM, GTM, ASM, APM, and knowledge
+of additional F5 technologiesExcellent customer communication and advocacy
+skillsDemonstrated proficiencies with LAN/WAN operations, Network protocols, UNIX or Linux
+Operating Systems, and/or networking hardware requiredProvide experience prioritizing
+multiple concurrent projectsExposure to cloud solutions in container environment Physical
+Demands and Work Environment Duties are performed in a normal office environment while
+sitting at a desk or computer table. Duties require the ability to utilize a computer,
+communicate over the telephone, and read printed material.Duties may require being on-call
+periodically and working outside normal working hours (holidays, evenings, and/or
+weekends).Duties may require the ability to travel via automobile or airplane, up to 10%
+of time. The Job Description is intended to be a general representation of the
+responsibilities and requirements of the job. However, the description may not be all-
+inclusive, and responsibilities and requirements are subject to change. The annual U.S.
+base pay range for this position is: $86,676.00 - $130,014.00 F5 maintains broad salary
+ranges for its roles in order to account for variations in knowledge, skills, experience,
+geographic locations, and market conditions, as well as to reflect F5’s differing
+products, industries, and lines of business. The pay range referenced is as of the time of
+the job posting and is subject to change. You may also be offered incentive compensation,
+bonus, restricted stock units, and benefits. More details about F5’s benefits can be found
+at the following link: https://www.f5.com/company/careers/benefits. F5 reserves the right
+to change or terminate any benefit plan without notice. Please note that F5 only contacts
+candidates through F5 email address (ending with @f5.com) or auto email notification from
+Yello/Workday (ending with f5.com or @myworkday.com). Equal Employment Opportunity It is
+the policy of F5 to provide equal employment opportunities to all employees and employment
+applicants without regard to unlawful considerations of race, religion, color, national
+origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or
+mental disability, marital status, veteran or military status, genetic information, or any
+other classification protected by applicable local, state, or federal laws. This policy
+applies to all aspects of employment, including, but not limited to, hiring, job
+assignment, compensation, promotion, benefits, training, discipline, and termination. F5
+offers a variety of reasonable accommodations for candidates. Requesting an accommodation
+is completely voluntary. F5 will assess the need for accommodations in the application
+process separately from those that may be needed to perform the job. Request by contacting
+accommodations@f5.com.
+
+==========================================================================================
+[9/10] 3905343965 | Director Information Technology Services
+gazetteer (3): ['AWS', 'Azure', 'GCP']
+==========================================================================================
+Company Overview: A leading Law Firm client of ours is seeking an experienced hands-on IT
+Director in the Los Angeles metropolitan area. Job Description: As IT Director, you'll
+oversee engineering and help desk teams, manage the IT budget, resources, and vendor
+relationships. You'll design, implement, and support network infrastructure, applications,
+and related technologies. Key Responsibilities:Lead engineering and help desk teamsManage
+Vendor relationshipsManage IT resources and budgetDesign, implement, and support network
+infrastructure and applicationsTroubleshoot issues and utilize cloud technologiesEnsure
+compliance with security policies Qualifications:Bachelor's degree in relevant field
+(Engineering, Computer Sciences, Business Administration)10+ years of hands-on IT support
+experienceProficiency in cloud technologies (Azure, AWS, and/or GCP) and network
+infrastructureHands-on management approachAbility to work onsite initially with remote
+work option later. Initial 5-day onsite and remote work flexibility available after a
+90-day probation period. To apply, send your resume to recruiters@jba.com
+
+==========================================================================================
+[10/10] 3905871459 | IAM System Analyst-Onsite
+gazetteer (4): ['Azure', 'PowerShell', 'SQL', 'Splunk']
+==========================================================================================
+Role: IAM System AnalystExp:8+Location: OnsiteResponsibilities:Strong understanding of IAM
+concepts, regulations, and standardsTechnical aptitude with the ability to do
+provisioningKnowledge and experience working in cloud solutions (preferably MS
+Azure)Ability to pull SQL and PowerShell scriptsExperience in Splunk and ability to read
+logsSailPoint IIQ knowledge and experienceExperience with IT AuditExcellent analytical and
+communication skillsStrong problem-solving abilitiesAbility to work independently and
+collaboratively in a team environmentAbility to adapt to change and learn new technologies
+quickly
+
