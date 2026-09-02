@@ -1,0 +1,231 @@
+# Canonical technology gazetteer.
+#
+# Scope: technologies only. No soft skills, no methodologies, no job titles.
+# The research question concerns technology attribution; widening the
+# vocabulary widens what must be defended without strengthening the result.
+#
+# This list serves three purposes: the keyword baseline, the bounded skill
+# universe for evaluation, and the filter defining the technical subset.
+
+- canonical: Python
+  aliases: []
+- canonical: Java
+  aliases: []
+- canonical: JavaScript
+  aliases: [JS]
+- canonical: TypeScript
+  aliases: [TS]
+- canonical: SQL
+  aliases: []
+- canonical: C++
+  aliases: []
+- canonical: C#
+  aliases: [CSharp, C Sharp]
+- canonical: Go
+  aliases: [Golang]
+- canonical: Rust
+  aliases: []
+- canonical: Ruby
+  aliases: []
+- canonical: PHP
+  aliases: []
+- canonical: Scala
+  aliases: []
+- canonical: Kotlin
+  aliases: []
+- canonical: Swift
+  aliases: []
+- canonical: R
+  aliases: []
+- canonical: MATLAB
+  aliases: []
+- canonical: Perl
+  aliases: []
+- canonical: Bash
+  aliases: [Shell scripting, Shell script]
+- canonical: PowerShell
+  aliases: []
+- canonical: VBA
+  aliases: [Visual Basic]
+- canonical: Spark
+  aliases: [Apache Spark, PySpark]
+- canonical: Kafka
+  aliases: [Apache Kafka]
+- canonical: Hadoop
+  aliases: [Apache Hadoop]
+- canonical: Airflow
+  aliases: [Apache Airflow]
+- canonical: dbt
+  aliases: []
+- canonical: Snowflake
+  aliases: []
+- canonical: Databricks
+  aliases: []
+- canonical: Redshift
+  aliases: [Amazon Redshift]
+- canonical: BigQuery
+  aliases: [Google BigQuery]
+- canonical: Hive
+  aliases: [Apache Hive]
+- canonical: Flink
+  aliases: [Apache Flink]
+- canonical: Kinesis
+  aliases: [AWS Kinesis]
+- canonical: Talend
+  aliases: []
+- canonical: Informatica
+  aliases: []
+- canonical: SSIS
+  aliases: []
+- canonical: ETL
+  aliases: []
+- canonical: Data warehousing
+  aliases: [Data warehouse]
+- canonical: PostgreSQL
+  aliases: [Postgres]
+- canonical: MySQL
+  aliases: []
+- canonical: MongoDB
+  aliases: [Mongo]
+- canonical: Oracle
+  aliases: [Oracle DB, Oracle Database]
+- canonical: SQL Server
+  aliases: [MS SQL, Microsoft SQL Server, MSSQL, T-SQL, TSQL]
+- canonical: Redis
+  aliases: []
+- canonical: Cassandra
+  aliases: [Apache Cassandra]
+- canonical: DynamoDB
+  aliases: []
+- canonical: Elasticsearch
+  aliases: [Elastic Search, ELK]
+- canonical: Neo4j
+  aliases: []
+- canonical: SQLite
+  aliases: []
+- canonical: MariaDB
+  aliases: []
+- canonical: NoSQL
+  aliases: [no-SQL]
+- canonical: AWS
+  aliases: [Amazon Web Services]
+- canonical: Azure
+  aliases: [Microsoft Azure]
+- canonical: GCP
+  aliases: [Google Cloud, Google Cloud Platform]
+- canonical: Docker
+  aliases: []
+- canonical: Kubernetes
+  aliases: [K8s]
+- canonical: Terraform
+  aliases: []
+- canonical: Ansible
+  aliases: []
+- canonical: Jenkins
+  aliases: []
+- canonical: GitLab CI
+  aliases: [GitLab CI/CD]
+- canonical: GitHub Actions
+  aliases: []
+- canonical: CI/CD
+  aliases: [CICD, Continuous Integration]
+- canonical: Linux
+  aliases: [Unix]
+- canonical: EC2
+  aliases: [Amazon EC2]
+- canonical: S3
+  aliases: [Amazon S3]
+- canonical: Lambda
+  aliases: [AWS Lambda]
+- canonical: EKS
+  aliases: []
+- canonical: CloudFormation
+  aliases: []
+- canonical: Helm
+  aliases: []
+- canonical: Prometheus
+  aliases: []
+- canonical: Grafana
+  aliases: []
+- canonical: Datadog
+  aliases: []
+- canonical: Splunk
+  aliases: []
+- canonical: React
+  aliases: [React.js, ReactJS]
+- canonical: Angular
+  aliases: [AngularJS]
+- canonical: Vue
+  aliases: [Vue.js, VueJS]
+- canonical: Node.js
+  aliases: [NodeJS, Node]
+- canonical: Django
+  aliases: []
+- canonical: Flask
+  aliases: []
+- canonical: FastAPI
+  aliases: []
+- canonical: Spring Boot
+  aliases: []
+- canonical: Spring
+  aliases: [Spring Framework]
+- canonical: .NET
+  aliases: [dotnet, ASP.NET]
+- canonical: Rails
+  aliases: [Ruby on Rails]
+- canonical: Express
+  aliases: [Express.js]
+- canonical: GraphQL
+  aliases: []
+- canonical: REST API
+  aliases: [RESTful API, REST APIs, RESTful APIs]
+- canonical: HTML
+  aliases: [HTML5]
+- canonical: CSS
+  aliases: [CSS3, SASS, SCSS]
+- canonical: Git
+  aliases: []
+- canonical: Jira
+  aliases: []
+- canonical: Microservices
+  aliases: [Microservice architecture]
+- canonical: TensorFlow
+  aliases: []
+- canonical: PyTorch
+  aliases: [Torch]
+- canonical: scikit-learn
+  aliases: [sklearn, scikit learn]
+- canonical: pandas
+  aliases: []
+- canonical: NumPy
+  aliases: []
+- canonical: Keras
+  aliases: []
+- canonical: Machine learning
+  aliases: [ML]
+- canonical: Deep learning
+  aliases: []
+- canonical: NLP
+  aliases: [Natural language processing]
+- canonical: Computer vision
+  aliases: []
+- canonical: Tableau
+  aliases: []
+- canonical: Power BI
+  aliases: [PowerBI]
+- canonical: Looker
+  aliases: []
+- canonical: Excel
+  aliases: [Microsoft Excel, MS Excel]
+- canonical: SAS
+  aliases: []
+- canonical: SPSS
+  aliases: []
+- canonical: Stata
+  aliases: []
+- canonical: Alteryx
+  aliases: []
+- canonical: Qlik
+  aliases: [QlikView, Qlik Sense]
+- canonical: Jupyter
+  aliases: [Jupyter Notebook]
