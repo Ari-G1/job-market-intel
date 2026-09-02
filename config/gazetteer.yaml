@@ -23,6 +23,7 @@
   aliases: [CSharp, C Sharp]
 - canonical: Go
   aliases: [Golang]
+  requires_context: true
 - canonical: Rust
   aliases: []
 - canonical: Ruby
@@ -36,7 +37,8 @@
 - canonical: Swift
   aliases: []
 - canonical: R
-  aliases: []
+  aliases: [R programming, R language]
+  requires_context: true
 - canonical: MATLAB
   aliases: []
 - canonical: Perl
@@ -56,7 +58,8 @@
 - canonical: Airflow
   aliases: [Apache Airflow]
 - canonical: dbt
-  aliases: []
+  aliases: [dbt Core, dbt Cloud]
+  requires_context: true
 - canonical: Snowflake
   aliases: []
 - canonical: Databricks
@@ -174,7 +177,8 @@
 - canonical: Rails
   aliases: [Ruby on Rails]
 - canonical: Express
-  aliases: [Express.js]
+  aliases: [Express.js, ExpressJS]
+  requires_context: true
 - canonical: GraphQL
   aliases: []
 - canonical: REST API
