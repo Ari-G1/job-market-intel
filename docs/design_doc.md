@@ -20,7 +20,7 @@ The graded input is the free-text `description` field. Sample: `docs/sample_post
 flowchart TD
     CSV[Kaggle CSV<br/>123,849 postings] --> PREP[prepare_raw.py<br/>CSV to JSONL]
     PREP --> PROD[producer.py]
-    PROD --> KAFKA{{Kafka topic jobs.raw<br/>3 partitions}}
+    PROD --> KAFKA{{Kafka topic jobs.raw<br/>1 partition}}
     KAFKA --> STREAM[streaming_job.py<br/>Spark Structured Streaming]
     STREAM --> BRONZE[(Bronze<br/>123,849)]
     BRONZE --> SILVER[write_silver.py]
