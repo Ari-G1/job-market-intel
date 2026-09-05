@@ -1,0 +1,23 @@
+files read              4000
+status ok               3995
+status error            5
+postings with 0 skills  1
+
+mentions                55088
+grounded                54569   99.1%
+ungrounded              519
+mean mentions/posting   13.79
+
+attribution distribution, denominator 55088 mentions
+  required       38733   70.3%
+  preferred      12246   22.2%
+  boilerplate     4106   7.5%
+  not_expected       3   0.0%
+labels outside the schema: none
+majority class          required at 0.7031
+
+input tokens            5327778
+output tokens           2686489
+distinct skill strings  10147
+
+wrote skill_strings.tsv and error_ids.txt to data/stats
