@@ -74,6 +74,14 @@ def build_docs():
 es = Elasticsearch("http://localhost:9200")
 print("cluster reachable: %s" % es.ping())
 
+with open("config/es_mapping.json") as f:
+    _mapping = json.load(f)
+if es.indices.exists(index=INDEX):
+    print("index %s exists; leaving its mapping unchanged" % INDEX)
+else:
+    es.indices.create(index=INDEX, body=_mapping)
+    print("created index %s from config/es_mapping.json" % INDEX)
+
 ok, errors = helpers.bulk(es, build_docs(), chunk_size=200, raise_on_error=False)
 print("indexed %d documents" % ok)
 print("errors: %d" % len(errors))
