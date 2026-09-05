@@ -71,3 +71,24 @@ stats = df.agg(
            "remote_allowed", "listed_time")
    .write.mode("overwrite").parquet("data/silver"))
 print("silver written")
+
+# ------------------------------------------------------- funnel report
+# stats was computed above in the single agg pass; emit it so docs/funnel.txt
+# is reproducible from this script (it used to come from a separate one-off).
+blank = stats["bronze"] - stats["has_desc"]
+dup   = stats["has_desc"] - stats["distinct_ids"]
+loss  = stats["bronze"] - stats["silver"]
+funnel = (
+    f"bronze rows           : {stats['bronze']:,}\n"
+    f"blank description     : -{blank:,}\n"
+    f"duplicate job_id      : -{dup:,}\n"
+    f"language filter       : -{stats['not_english']:,}\n"
+    f"shorter than 200 chars: -{stats['too_short']:,}\n"
+    f"silver rows           : {stats['silver']:,}\n"
+    f"total loss            : {loss:,} ({loss / stats['bronze']:.2%})\n"
+)
+print(funnel)
+os.makedirs("docs", exist_ok=True)
+with open("docs/funnel.txt", "w", encoding="utf-8") as f:
+    f.write(funnel)
+print("wrote docs/funnel.txt")

@@ -98,7 +98,7 @@ These are frozen first so the gold set is fixed before the prompt is tuned on th
 
 ```bash
 python src/sample_4k.py                   # draws the 4,000-posting enrichment subset from the technical population
-python src/enrich.py                      # LLM attribution on the 4k subset -> data/enriched + data/enriched_json
+python src/enrich.py                      # LLM attribution on the 4k subset -> data/enriched_json
 ```
 
 ### 4 · Product path (demo backend)

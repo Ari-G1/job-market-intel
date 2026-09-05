@@ -14,17 +14,18 @@ Common set: 229 mentions detected by both the gazetteer and the LLM.
 finds the human label wrong, it is reported rather than corrected, so the
 87.3% is if anything an understatement.
 
-## The disagreements are sentence-level, not posting-level
+## The disagreements cluster; they are not 29 independent judgements
 
-The 29 disagreements are not spread evenly across skills or postings. Three
-single sentences account for 15 of them. In each case one ambiguous sentence
-listed several technologies, and the human and the model read that sentence's
-framing differently — producing five or more disagreements that are really one
-judgement.
+The 29 disagreements come from 11 postings, and they are concentrated: four
+postings supply 22 of the 29, and three shared-context passages alone account
+for 16 (five, five and six disagreements — Cases 1, 2 and 4 below). In each of
+those passages a single sentence or heading listed several technologies, and
+the human and the model read that one framing differently, producing five or
+six disagreements that are really one judgement.
 
 This matters for interpreting the headline number: mentions within a posting
 are not independent, so the effective sample behind these errors is closer to
-the number of distinct ambiguous sentences than to 29.
+the number of distinct ambiguous passages than to 29.
 
 ## Case 1 — posting 3902355613: the model was right
 
@@ -65,18 +66,59 @@ negation correctly and then failed to apply the tie-break rule it was given.
 This is a rule-following failure rather than a comprehension failure, and it
 is the only instance of `not_expected` produced anywhere in the gold set.
 
+## Case 4 — posting 3901905766: the model over-escalated a "Preferred" list
+
+Eight disagreements, the largest cluster in the gold set, and they split into
+two groups.
+
+Six (AWS, Azure, Databricks, Kafka, SQL Server, Snowflake) are all human
+`preferred`, model `required`. All six sit in one sentence under an explicit
+**"Preferred Background:"** heading: "Strong ability to drive connections with
+a wide variety of data platforms including AWS (Databricks, Teradata,
+Snowflake, Kafka), Azure, DB2 and SQL Server, etc." The human label followed
+the heading, as the protocol requires; the model read the strong action verb
+("Strong ability to drive connections with…") as a hard requirement and ran
+past the heading. Here the protocol backs the human, and the model
+over-escalated — the mirror image of Case 1.
+
+This one passage supplies six of the seven `preferred → required` transitions
+in the entire gold set. The model's tendency to be *stricter* than the human
+is therefore not a distributed pattern; it is concentrated in this single
+posting.
+
+The remaining two (Excel, SQL) are human `required`, model `boilerplate`, from
+a bare "Tooling: Excel, SQL knowledge … desired" line. A tooling list with no
+requirement verb is genuinely ambiguous between the two labels; this pair is
+recorded as such rather than scored against either system.
+
 ## Aggregate direction
 
-| Direction | Count |
-|---|---|
-| Human stricter than model (`required` → `preferred`/`boilerplate`) | 14 |
-| Model stricter than human | 13 |
-| `boilerplate` confusions in both directions | 2 |
+The 29 disagreements, by exact transition (gold → LLM):
 
-The disagreements are close to balanced. A systematic bias in one direction
-would suggest the two systems were working from different definitions; the
-balance suggests they were working from the same definitions on genuinely
-ambiguous text.
+| Transition | Count | Reading |
+|---|---|---|
+| `required` → `preferred` | 14 | model softer |
+| `required` → `boilerplate` | 5 | model softer |
+| `preferred` → `required` | 7 | model stricter |
+| `boilerplate` → `required` | 2 | model stricter |
+| `preferred` → `not_expected` | 1 | precedence misfire (Case 3) |
+
+Grouped: the model is **softer** than the human label in 19 of 29
+disagreements (it calls a gold-`required` skill `preferred` or `boilerplate`)
+and **stricter** in 9. The split is directional, not balanced — but it is not
+evidence that the model is worse. Ten of the 14 `required → preferred`
+disagreements are Cases 1 and 2, where the model followed sentence-level
+hedging that the human read past from the section heading; on review the model
+is right in Case 1 and the text is undecidable in Case 2. And six of the nine
+"stricter" disagreements are the single Case-4 passage.
+
+The honest summary: the disagreements are almost entirely about the
+`required` / `preferred` boundary on ambiguously-framed lists. The model
+tracks sentence-level framing where the human tracks section headings. That
+produces a lean toward demotion in raw counts, but once the errors are
+grouped by the passage that caused them, neither system is systematically
+stricter — they read the same definitions differently on genuinely ambiguous
+text.
 
 ## Limits of this analysis
 
