@@ -3,7 +3,7 @@ Kafka -> bronze. Streaming ingestion only.
 
 Reads jobs.raw, parses each message into typed columns, writes Parquet to
 data/bronze. No cleaning here: bronze is the raw landing zone. Cleansing
-happens in clean_to_silver.py, where the data is bounded.
+happens in write_silver.py, where the data is bounded.
 """
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, from_json

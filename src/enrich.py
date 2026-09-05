@@ -10,6 +10,7 @@ Design notes:
 - Threaded because 4,000 sequential calls at ~3s each is over three hours.
   Eight workers is conservative; the bottleneck is the API, not the client.
 """
+import os
 import json
 import sys
 import time
@@ -25,7 +26,7 @@ from llm_client import call_llm
 from prompt import build
 from schema import Extraction
 
-OUT = Path("data/enriched_json")
+OUT = Path(os.environ.get("ENRICH_OUT", "data/enriched_json"))
 WORKERS = 8
 MAX_TOKENS = 2500
 
@@ -80,7 +81,8 @@ def enrich_one(row) -> dict:
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
 
-    ids = [l.strip() for l in open("config/enrich_ids.txt") if l.strip()]
+    ids_file = os.environ.get("ENRICH_IDS", "config/enrich_ids.txt")
+    ids = [l.strip() for l in open(ids_file) if l.strip()]
     df = pq.read_table(
         "data/silver_gazetteer",
         columns=["job_id", "title", "description_clean"],

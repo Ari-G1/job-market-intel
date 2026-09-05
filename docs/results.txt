@@ -1,0 +1,45 @@
+================================================================
+EVALUATION - 40 gold postings, 255 labelled mentions
+================================================================
+
+gold: 249 scorable, 6 spurious (gazetteer false positives)
+LLM:  547 mentions, 265 mapped, 282 unmapped (51.6%)
+Unmapped mentions fall outside the gazetteer-bounded universe and are
+scored neither for nor against the LLM.
+
+1. DETECTION over the gazetteer-bounded universe
+
+  system         TP    FP    FN   precision  recall     F1
+  gazetteer     249     6     0   0.976      1.000      0.988
+  LLM           229    25    20   0.902      0.920      0.911
+
+  The gazetteer's recall is 1.0 by construction - the universe is its own
+  output. Its 6 false positives are the spurious rows. LLM detections of
+  canonical terms absent from the universe count against it.
+
+2. ATTRIBUTION ACCURACY on the common set (headline)
+
+  common set: 229 mentions detected by both systems
+  majority-class baseline       175/229  76.4%
+  LLM                           200/229  87.3%
+
+3. END-TO-END ACCURACY over all 249 scorable gold mentions
+
+  gazetteer + majority class    189/249  75.9%
+  LLM                           200/249  80.3%
+
+4. CONFUSION MATRIX on the common set - gold down, LLM across
+
+                required      preferred     boilerplate   not_expected  
+  required      156           14            5             0             
+  preferred     7             40            0             1             
+  boilerplate   2             0             4             0             
+  not_expected  0             0             0             0             
+
+  required      gold 189, in common set 175, correct 156
+  preferred     gold  53, in common set  48, correct  40
+  boilerplate   gold   7, in common set   6, correct   4
+  not_expected  gold   0, in common set   0, correct   0
+
+n=40 postings, 255 labelled mentions. Mentions within a posting are not
+independent; categorical results at this scale are indicative, not precise.

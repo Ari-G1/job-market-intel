@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "job_id":                   { "type": "keyword" },
+      "title":                    { "type": "text" },
+      "description":              { "type": "text" },
+      "company":                  { "type": "keyword" },
+      "location":                 { "type": "keyword" },
+      "work_type":                { "type": "keyword" },
+      "experience_level_source":  { "type": "keyword" },
+      "seniority_llm":            { "type": "keyword" },
+      "years_experience_min":     { "type": "integer" },
+      "n_skills":                 { "type": "integer" },
+      "skills_gazetteer":         { "type": "keyword" },
+      "skills_required":          { "type": "keyword" },
+      "skills_preferred":         { "type": "keyword" },
+      "skills_boilerplate":       { "type": "keyword" },
+      "skills_not_expected":      { "type": "keyword" },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 384,
+        "index": true,
+        "similarity": "cosine"
+      }
+    }
+  }
+}
