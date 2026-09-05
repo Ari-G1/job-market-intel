@@ -23,7 +23,7 @@ flowchart TD
     PROD --> KAFKA{{Kafka topic jobs.raw<br/>3 partitions}}
     KAFKA --> STREAM[streaming_job.py<br/>Spark Structured Streaming]
     STREAM --> BRONZE[(Bronze<br/>123,849)]
-    BRONZE --> SILVER[clean_to_silver.py]
+    BRONZE --> SILVER[write_silver.py]
     SILVER --> SLV[(Silver<br/>121,842)]
     SLV --> GAZ[gazetteer_udf.py<br/>Spark UDF · baseline extractor]
     GAZ --> SUBSET[technical subset<br/>n_skills 3 or more · 9,202]
@@ -54,7 +54,7 @@ flowchart TD
 1. **Ingest.** `prepare_raw.py` converts the source CSV to JSONL (format only, no logic).
    `producer.py` publishes 123,849 records to the Kafka topic `jobs.raw`.
 2. **Bronze → Silver (Spark).** `streaming_job.py` reads the topic with Structured Streaming and
-   writes an untouched Bronze layer (123,849 rows). `clean_to_silver.py` applies the cleaning
+   writes an untouched Bronze layer (123,849 rows). `write_silver.py` applies the cleaning
    funnel — drop blank descriptions, a language filter, a minimum length — leaving 121,842 rows
    (1.62% loss). Deduplication was *measured* (0 duplicate job IDs) and therefore not executed.
 3. **Gazetteer (Spark UDF).** `gazetteer_udf.py` matches a 111-technology gazetteer over every
